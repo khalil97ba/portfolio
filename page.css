@@ -1,0 +1,154 @@
+.header{
+    background-color: #eee;  
+    
+}
+
+.nav-item a{
+    color: #000;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin: 0 10px;
+    transition: .5s;
+}
+
+.nav-item a:hover{
+    color: #ce0033;
+}
+
+.logo a{
+    font-weight: bold;
+}
+
+.text-modifier{
+    margin-top: 60px;
+}
+
+.paragraph{
+    color: #ce0033;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+span{
+    color: #000;
+    font-size: 1em;
+}
+
+.bouton{
+    background-color: #ce0033;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+
+.name{
+    margin: 10px;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.bouton:hover{
+    background-color: #000;
+
+}
+
+.fa-brands{
+    margin: 0 10px;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.fa-brands:hover{   
+    color: #ce0033;
+}
+#image{
+    width: 300px;
+    height: 300px;
+    overflow: hidden;
+    border-radius: 50%;
+    box-shadow: 0 0 0 10px #ce0033;
+    margin-right: 60px;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    background-position: center;
+}
+
+
+.title{
+    font-size: 1.7em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    position: relative;
+    top: 30px;
+}
+
+.propos{
+    background-color: #FEF5F5;
+    position: relative;
+    top: 60px;
+}
+
+.bouton2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 10px;
+}
+
+
+
+
+.social-box .box {
+    background: #FFF;
+    border-radius: 10px; 
+    cursor: pointer;
+    margin: 20px 0;
+    padding: 40px 10px;
+    transition: all 0.5s ease-out;
+}
+
+.social-box .box:hover {
+   box-shadow: 0 0 6px #ce0033;
+}
+
+.social-box .box-text {
+    font-size: 15px;
+    line-height: 30px;
+    margin: 20px 0;
+}
+
+.social-box .box-btn a {
+    background-color: #ce0033;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1em;
+    font-weight: bold;
+    cursor: pointer;
+    
+}
+
+
+.comptence{
+    background-color: #D9D9D9;
+    position: relative;
+    top: 60px;
+}
+
+.card-text{
+    font-size: 1.1em;
+    
+}
